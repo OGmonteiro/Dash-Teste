@@ -4,4 +4,10 @@ cookie:
   name: some_cookie_name
 credentials:
   usernames:
-   
+    teste:
+      email: teste@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: teste
+      password: $2b$12$0Qp8.YHXO2Z.yIl078LOcugp.anLxY24WQaZdXNpQdLBplQ5OEsAy
+
