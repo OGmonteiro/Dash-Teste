@@ -1,0 +1,22 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    Gabriel Monteiro:
+      email: gmsilva3@stefanini.com
+      name: Gabriel Monteiro
+      password: $2b$12$nS0M2dQA7iT7j55yTUE9xeExbhZiKpNcn.PBfDx4l0ODxsKnuXuaq
+    gabriel:
+      email: gmsilva3@stefanini.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Gabriel Monteiro
+      password: $2b$12$vdQ367lx3j//NHzXbTd1R.uU01et4KZMzZHGZt8Ei.SXRDYrY9Sqe
+    teste:
+      email: teste@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: teste
+      password: $2b$12$0Qp8.YHXO2Z.yIl078LOcugp.anLxY24WQaZdXNpQdLBplQ5OEsAy
